@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'Corpo humano',
-    'Quantos ossos tem o corpo humano?',
-    '206 ossos'
+    'Quantos dentes possui um adulto?',
+    '32 dentes'
 )
 criaCartao(
     'Corpo humano',
@@ -17,6 +17,18 @@ criaCartao(
 
 criaCartao(
     'Corpo humano',
-    'Quantos dentes possui um adulto?',
-    '32 dentes'
+    'Quantos ossos tem o corpo humano?',
+    '206 ossos'
+)
+
+criaCartao(
+    'Corpo humano',
+    'Qual o maior orgão do corpo humano?',
+    'Pele'
+)
+
+criaCartao(
+    'Corpo humano',
+    'Qual o orgão do corpo humano que produz insulina?',
+    'Pâncreas'
 )
